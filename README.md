@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-🚀 Check out my portfolio: [tornado-techie.github.io](https://tornado-techie.github.io/)
+🚀 Check out my portfolio: ([https://tornado-techie.github.io/SalomeMundia-portfolio/])
 
 🌱 I’m currently building quality systems, clean energy, environment and sustainability tech.
 
